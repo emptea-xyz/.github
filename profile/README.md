@@ -1,5 +1,5 @@
 # Emptea
 
-Emptea is a project to publish web3-apps.
+Building web3-experiences.
 <br/>
 [Homepage](https://emptea.xyz)

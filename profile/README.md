@@ -2,4 +2,5 @@
 
 Building web3-experiences.
 <br/>
-[Homepage](https://emptea.xyz)
+<br/>
+[Check it out!](https://emptea.xyz)
